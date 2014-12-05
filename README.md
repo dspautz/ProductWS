@@ -1,7 +1,7 @@
 # Product-Order System
 
 Example application to create Products, Orders including Items referenced to a Product.
-A Order have a state managemed by a state machine.
+A Order has a state managed by a state machine.
 
 ## Requirements
 
